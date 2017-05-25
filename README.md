@@ -6,7 +6,7 @@ To install follow the following steps
 ```bash
 composer create-project stormyy/b3cod4x-standalone
 ```
-2. Fill in the database information and the APP_URL in .env in the root. Also 
+2. Fill in the database information and the APP_URL, APP_NAME in .env in the root. Also 
 3. Run migrate to install database 
 ```bash
 php artisan migrate
