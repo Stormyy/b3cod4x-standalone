@@ -20,7 +20,7 @@ Password: ChangeMeFast
 Add you b3 server via the panel and you can use it straight away ;)
 
 
-## Nofifications
+## Notifications
 To turn on notifications you have to add the following settings
 
 1. Create a account on http://www.pusher.com (Free sandbox one)
