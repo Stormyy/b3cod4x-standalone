@@ -30,3 +30,10 @@ composer require pusher/pusher-php-server
 ```
 3. In .env set BROADCAST_DRIVER to pusher ALSO fill in the PUSHER variables in the buttom of the .env you can find these values @ the pusher website
 4. Enjoy :)
+
+## B3 plugins
+
+This project requires the following plugins to be installed in b3:
+
+Plugin status
+Plugin chatlogger
