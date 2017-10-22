@@ -95,7 +95,7 @@
         }
     </script>
     <script type="text/javascript" src="{{asset('vendor/stormyy/b3cod4x/js/b3app.js')}}"></script>
-    <script src="{{url('/js/app.js)}}"></script>
+    <script src="{{url('/js/app.js')}}"></script>
     <!-- Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
 
