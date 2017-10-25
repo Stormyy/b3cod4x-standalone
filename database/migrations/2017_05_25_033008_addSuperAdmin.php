@@ -15,7 +15,7 @@ class AddSuperAdmin extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table){
-           $table->boolean('isSuperAdmin')->after('password');
+           $table->boolean('isSuperAdmin')->default(false)->after('password');
         });
 
         $user = new \App\User();
