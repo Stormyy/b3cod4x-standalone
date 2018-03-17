@@ -11,7 +11,8 @@ return [
     | Or set the group levels of the different permissions
     |
     */
-
+    
+    'clanname' => 'LuV',
     'policy' => \App\Policies\B3Policy::class,
 
     /**
